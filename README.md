@@ -1,7 +1,7 @@
 # Cooktail
 
 
-Homo amenting
+Homo amending
 > Lightweight Rendering engine similar to Harmony, but use Fre and quickjs
 
 [homo](https://github.com/yisar/homo) from yisar
